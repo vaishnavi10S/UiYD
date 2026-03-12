@@ -1,6 +1,6 @@
 
 {
-  "name": "yungdrip",
+ "name": "ui-yd",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -18,3 +18,6 @@
     "vite": "^5.2.0"
   }
 }
+
+
+
