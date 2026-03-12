@@ -1,14 +1,8 @@
+
+
 {
   "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist",
-  "framework": "vite"
+  "framework": "vite",
+  "installCommand": "npm install"
 }
-```
-
-5. Click **Commit changes**
-
-Vercel will auto-trigger a new deployment. The logs should now show:
-```
-Installing dependencies...   ✅
-Running "npm install && npm run build"...  ✅
-✓ built in Xs   ✅
